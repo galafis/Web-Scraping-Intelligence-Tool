@@ -2,13 +2,18 @@
 
 ## English
 
+### 🖼️ Hero Image
+
+![Web Scraping Intelligence Tool Hero Image](hero_image.png)
+*(Placeholder for a professional and attractive hero image representing the project. The image will convey data extraction, automation, and intelligence with abstract elements like network graphs, data streams, magnifying glass, and subtle robotic arms. The color palette will be modern, with blues, greens, and grays, in a clean, high-tech, and sophisticated style.)*
+
 ### 🚀 Overview
-Professional web scraping intelligence tool with automated data extraction
+Professional web scraping intelligence tool with automated data extraction.
 
 This project demonstrates professional Python development skills with modern best practices, clean code architecture, and industry-standard implementations.
 
 ### 🛠️ Technology Stack
-Python, BeautifulSoup, Scrapy, Selenium, data extraction, automation
+Python, BeautifulSoup, Scrapy, Selenium, data extraction, automation.
 
 ### ⚡ Features
 - Professional code architecture
@@ -74,13 +79,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Português
 
-### 🚀 Visão Geral
-Professional web scraping intelligence tool with automated data extraction
+### 🖼️ Imagem Hero
 
-Este projeto demonstra habilidades profissionais de desenvolvimento em Python com práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+![Imagem Hero da Ferramenta de Inteligência de Web Scraping](hero_image.png)
+*(Espaço reservado para uma imagem hero profissional e atraente que representa o projeto. A imagem transmitirá extração de dados, automação e inteligência com elementos abstratos como grafos de rede, fluxos de dados, lupa e braços robóticos sutis. A paleta de cores será moderna, com azuis, verdes e cinzas, em um estilo limpo, de alta tecnologia e sofisticado.)*
+
+### 🚀 Visão Geral
+Ferramenta profissional de inteligência para web scraping com extração automatizada de dados.
+
+Este projeto demonstra habilidades profissionais de desenvolvimento em Python com as melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
 
 ### 🛠️ Stack Tecnológica
-Python, BeautifulSoup, Scrapy, Selenium, data extraction, automation
+Python, BeautifulSoup, Scrapy, Selenium, extração de dados, automação.
 
 ### ⚡ Funcionalidades
 - Arquitetura de código profissional
@@ -133,3 +143,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ---
 
 ⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
+
