@@ -1,146 +1,169 @@
-# Web-Scraping-Intelligence-Tool
+# 🚀 Web Scraping Intelligence Tool
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[English](#english) | [Português](#português)
+
+---
 
 ## English
 
-### 🖼️ Hero Image
+### 🎯 Overview
 
-![Web Scraping Intelligence Tool Hero Image](hero_image.png)
-*(Placeholder for a professional and attractive hero image representing the project. The image will convey data extraction, automation, and intelligence with abstract elements like network graphs, data streams, magnifying glass, and subtle robotic arms. The color palette will be modern, with blues, greens, and grays, in a clean, high-tech, and sophisticated style.)*
+**Web Scraping Intelligence Tool** — Professional repository showcasing advanced development skills
 
-### 🚀 Overview
-Professional web scraping intelligence tool with automated data extraction.
+Total source lines: **156** across **2** files in **2** languages.
 
-This project demonstrates professional Python development skills with modern best practices, clean code architecture, and industry-standard implementations.
+### ✨ Key Features
 
-### 🛠️ Technology Stack
-Python, BeautifulSoup, Scrapy, Selenium, data extraction, automation.
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-### ⚡ Features
-- Professional code architecture
-- Modern development practices
-- Comprehensive error handling
-- Performance optimized
-- Well-documented codebase
-- Industry-standard patterns
+### 🚀 Quick Start
 
-### 🏃‍♂️ Quick Start
+#### Prerequisites
+- Python 3.12+
 
+
+#### Installation
+
+1. **Clone the repository**
 ```bash
-# Clone the repository
 git clone https://github.com/galafis/Web-Scraping-Intelligence-Tool.git
-
-# Navigate to project directory
 cd Web-Scraping-Intelligence-Tool
-
-# Follow language-specific setup instructions below
 ```
 
-### 📦 Installation & Setup
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Running
 
 ```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
 python main.py
 ```
 
-### 🎯 Use Cases
-- Professional development portfolio
-- Learning modern Python practices
-- Code reference and examples
-- Enterprise-grade implementations
 
-### 📊 Project Structure
+
+
+
+### 📁 Project Structure
+
 ```
 Web-Scraping-Intelligence-Tool/
+├── docs/
+│   ├── README.en.md
+│   └── README.md
+├── CONTRIBUTING.md
 ├── README.md
-├── LICENSE
-├── main.py
-├── requirements.txt
-├── src/
-├── tests/
-└── docs/
+└── main.py
 ```
 
-### 🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Python | 1 files |
+| HTML | 1 files |
 
 ### 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-### 👨‍💻 Author
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
 **Gabriel Demetrios Lafis**
-- Data Scientist & Engineer
-- Systems Developer & Analyst
-- Cybersecurity Specialist
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
 
 ---
 
 ## Português
 
-### 🖼️ Imagem Hero
+### 🎯 Visão Geral
 
-![Imagem Hero da Ferramenta de Inteligência de Web Scraping](hero_image.png)
-*(Espaço reservado para uma imagem hero profissional e atraente que representa o projeto. A imagem transmitirá extração de dados, automação e inteligência com elementos abstratos como grafos de rede, fluxos de dados, lupa e braços robóticos sutis. A paleta de cores será moderna, com azuis, verdes e cinzas, em um estilo limpo, de alta tecnologia e sofisticado.)*
+**Web Scraping Intelligence Tool** — Professional repository showcasing advanced development skills
 
-### 🚀 Visão Geral
-Ferramenta profissional de inteligência para web scraping com extração automatizada de dados.
+Total de linhas de código: **156** em **2** arquivos em **2** linguagens.
 
-Este projeto demonstra habilidades profissionais de desenvolvimento em Python com as melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+### ✨ Funcionalidades Principais
 
-### 🛠️ Stack Tecnológica
-Python, BeautifulSoup, Scrapy, Selenium, extração de dados, automação.
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
 
-### ⚡ Funcionalidades
-- Arquitetura de código profissional
-- Práticas modernas de desenvolvimento
-- Tratamento abrangente de erros
-- Otimizado para performance
-- Base de código bem documentada
-- Padrões da indústria
+### 🚀 Início Rápido
 
-### 🏃‍♂️ Início Rápido
+#### Pré-requisitos
+- Python 3.12+
 
+
+#### Instalação
+
+1. **Clone the repository**
 ```bash
-# Clone o repositório
 git clone https://github.com/galafis/Web-Scraping-Intelligence-Tool.git
-
-# Navegue para o diretório do projeto
 cd Web-Scraping-Intelligence-Tool
-
-# Siga as instruções de configuração específicas da linguagem abaixo
 ```
 
-### 📦 Instalação e Configuração
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+#### Execução
 
 ```bash
-# Instale as dependências
-pip install -r requirements.txt
-
-# Execute a aplicação
 python main.py
 ```
 
-### 🎯 Casos de Uso
-- Portfólio de desenvolvimento profissional
-- Aprendizado de práticas modernas em Python
-- Referência de código e exemplos
-- Implementações de nível empresarial
 
-### 🤝 Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um Pull Request.
+
+
+### 📁 Estrutura do Projeto
+
+```
+Web-Scraping-Intelligence-Tool/
+├── docs/
+│   ├── README.en.md
+│   └── README.md
+├── CONTRIBUTING.md
+├── README.md
+└── main.py
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| Python | 1 files |
+| HTML | 1 files |
 
 ### 📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
-### 👨‍💻 Autor
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
 **Gabriel Demetrios Lafis**
-- Cientista e Engenheiro de Dados
-- Desenvolvedor e Analista de Sistemas
-- Especialista em Segurança Cibernética
 
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
-
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
